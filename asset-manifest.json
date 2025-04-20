@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "./static/css/main.f2ac5f12.css",
-    "main.js": "./static/js/main.4a500fad.js",
+    "main.css": "./static/css/main.e5a1aa12.css",
+    "main.js": "./static/js/main.c0c16c3a.js",
     "static/js/453.7a51ea0d.chunk.js": "./static/js/453.7a51ea0d.chunk.js",
+    "static/media/ktnkmt_logo.jpg": "./static/media/ktnkmt_logo.ed36db74b028093576c6.jpg",
+    "static/media/ktun_logo.svg": "./static/media/ktun_logo.973deaf296f7e04be8044032eb215acf.svg",
     "index.html": "./index.html",
-    "main.f2ac5f12.css.map": "./static/css/main.f2ac5f12.css.map",
-    "main.4a500fad.js.map": "./static/js/main.4a500fad.js.map",
+    "main.e5a1aa12.css.map": "./static/css/main.e5a1aa12.css.map",
+    "main.c0c16c3a.js.map": "./static/js/main.c0c16c3a.js.map",
     "453.7a51ea0d.chunk.js.map": "./static/js/453.7a51ea0d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2ac5f12.css",
-    "static/js/main.4a500fad.js"
+    "static/css/main.e5a1aa12.css",
+    "static/js/main.c0c16c3a.js"
   ]
 }
