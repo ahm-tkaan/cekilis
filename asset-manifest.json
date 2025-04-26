@@ -1,17 +1,23 @@
 {
   "files": {
     "main.css": "./static/css/main.8114b414.css",
-    "main.js": "./static/js/main.2b34d2d8.js",
+    "main.js": "./static/js/main.239bf3f2.js",
+    "static/js/306.c879c45f.chunk.js": "./static/js/306.c879c45f.chunk.js",
+    "static/js/242.4b22f06e.chunk.js": "./static/js/242.4b22f06e.chunk.js",
+    "static/js/810.9b039871.chunk.js": "./static/js/810.9b039871.chunk.js",
     "static/js/453.7a51ea0d.chunk.js": "./static/js/453.7a51ea0d.chunk.js",
     "static/media/ktnkmt_logo.png": "./static/media/ktnkmt_logo.f484012372bf2228da3d.png",
     "static/media/ktun_logo.png": "./static/media/ktun_logo.bcc6db9b0fc5eb1e56b3.png",
     "index.html": "./index.html",
     "main.8114b414.css.map": "./static/css/main.8114b414.css.map",
-    "main.2b34d2d8.js.map": "./static/js/main.2b34d2d8.js.map",
+    "main.239bf3f2.js.map": "./static/js/main.239bf3f2.js.map",
+    "306.c879c45f.chunk.js.map": "./static/js/306.c879c45f.chunk.js.map",
+    "242.4b22f06e.chunk.js.map": "./static/js/242.4b22f06e.chunk.js.map",
+    "810.9b039871.chunk.js.map": "./static/js/810.9b039871.chunk.js.map",
     "453.7a51ea0d.chunk.js.map": "./static/js/453.7a51ea0d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8114b414.css",
-    "static/js/main.2b34d2d8.js"
+    "static/js/main.239bf3f2.js"
   ]
 }
